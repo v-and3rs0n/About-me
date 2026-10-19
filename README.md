@@ -45,7 +45,8 @@ Hey guys i'm V/Vince! welcome to my #readme!
 </td>
 <td align="center" width="33%">
 
-<img src="https://images.unsplash.com/photo-1536240478700-b869070f9279?w=400&h=250&fit=crop" width="100%" alt="Film and animation production"/>
+<img src="./images/my-art.png" width="100%" alt="My original digital artwork featuring a red-haired character surrounded by golden roses"/>
+"/>
 
 ### Animation
 
@@ -68,6 +69,10 @@ Hey guys i'm V/Vince! welcome to my #readme!
   <img src="https://img.shields.io/badge/X-0077B6?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
 </a>
 &nbsp;
+
+<a href="https://discord.com/users/iohoijpsefsd">
+  <img src="https://img.shields.io/badge/Discord-0077B6?style=for-the-badge&logo=discord&logoColor=CAF0F8" alt="Discord"/>
+</a>
 
 
 <br/><br/>
