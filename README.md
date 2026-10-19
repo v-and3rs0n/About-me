@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<h2>𝑾𝒉𝒐 𝑰 𝑨𝒎</h2>
+<h2>About Me</h2>
 
 <img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=700&q=80" width="240" alt="Blue night sky"/>
 
 <p>
-  <samp>Hiiii im v/vince ✦</samp>
+  <samp>Hiiii im V/vince ✦</samp>
 </p>
 
 <p>
