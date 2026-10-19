@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:00B4D8&height=200&section=header&text=HELLO,%20WORLD!&fontSize=48&fontColor=CAF0F8&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20universe&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:00B4D8&height=200&section=header&text=HELLO%!&fontSize=48&fontColor=CAF0F8&fontAlignY=38&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=ARTIST+%E2%9C%A6+ANIMATION+ENTHUSIAST;GAMER+%E2%9C%A6+CREATIVE+MIND;ALWAYS+IMAGINING+SOMETHING+NEW" alt="Animated introduction" />
 
