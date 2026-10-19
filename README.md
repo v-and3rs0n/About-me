@@ -13,6 +13,7 @@
   <samp>
     17, bday sept 19<br>
     come play w me on ponytown im fine w all ships ok
+    I might be a bit suggestive or flirty and talk abt adult topics sometimes, pls call me out if im making u uncomfortable!!
   </samp>
 </p>
 
@@ -23,9 +24,6 @@
   <samp>✧ animation</samp><br>
   <samp>✧ gaming</samp>
 
-</p>
-
-<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=500&q=80" width="120" alt="Blue night sky detail"/>
 
 <p>
   <samp> <i>✦ C+H Always welcome!! ✦ </i> </samp>
